@@ -83,3 +83,5 @@ author:
     - skill5:
       name: Java/Java EE
       percentage: 90%
+
+theme: jekyll-theme-cayman
